@@ -1,17 +1,18 @@
-# Project1-Apr2019
-Unit 8 Assignment - Project 1 - My Headlines
+# My Headliness
+
+Welcome to My Headlines, this is a web-developed site that allows the user to  read the most recent news from the selected news site. It was created with the goal of crentralize all the recent news from selected news' sites in only a site.
 
 Developed by:
-    Mayra Cuenca
-    Jesús Colunga
-    Hugo Moreno
-    José Garza
+<ul>
+    <li>Mayra Cuenca</li>
+    <li>Jesús Colunga</li>
+    <li>Hugo Moreno</li>
+    <li>José Garza</li>
+</ul>
 
-April 24th, 2019.
+<h2>Tools and Resources</h2>
 
-As part of the assignments for week 8
-on the Coding BootCamp from Tec de Monterrey,
-this app was developed using the following tools and resources:
+This app was developed using the following tools and resources:
 
 - HTML
 - CSS
@@ -24,3 +25,7 @@ this app was developed using the following tools and resources:
 - RSS2JSON
 - 8 news APIs
 - Images
+
+<h2>Live Demo</h2>
+
+<a href="https://rederu.github.io/Project01/">My Headliness</a>
