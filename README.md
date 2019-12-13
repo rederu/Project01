@@ -29,3 +29,6 @@ This app was developed using the following tools and resources:
 <h2>Live Demo</h2>
 
 <a href="https://rederu.github.io/Project01/">My Headliness</a>
+
+
+For more information about this project, please visit this <a href="https://github.com/rederu/Project01/blob/master/My%20Headlines%20(Final).pdf">LINK</a>
